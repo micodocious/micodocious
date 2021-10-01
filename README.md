@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @micodocious
-- 👀 I’m interested in competitive programming and all things computer science. 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in competitive programming and machine learning. 
+- 🌱 I’m currently learning competitive programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me at micomiguelsantiago@gmail.com
 
 <!---
-micodocious/micodocious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I love tennis so much that I played it professionally.Currently, I attend oregon state university as a junior studying electrical and computer engineering. Competitive programming is relaxing and where I find my "zen", when I want to clear my head, I will solve CP problems. 
 --->
