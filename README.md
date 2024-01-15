@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Mico Santiago, real name is Miguel Santiago
+- 👋 Hi, I’m Mico Santiago
 - 👀 I’m interested in FPGAs and Embedded projects
 - 📫 How to reach me at micomiguelsantiago@gmail.com
